@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS metadata
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables (secrets)
+.env
+
+# Uploaded documents / temp uploads
+uploads/
